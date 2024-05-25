@@ -1,0 +1,9 @@
+{
+    "Script": [
+        {"name": "Install forticlient", "link": "./files/install-forticlient.sh", "os": "linux", "creation": "25-05-2024", "modified": "25-05-2024"},
+        {"name": "Install node & npm", "link": "./files/node_npm_install.sh", "os": "linux", "creation": "25-05-2024", "modified": "25-05-2024"}
+    ],
+    "Binary": [
+        {"name": "Kraken web crawler", "link": "https://github.com/Angel-del-dev/kraken", "os": "linux", "creation": "01-05-2024", "modified": "25-05-2024"}
+    ]
+}

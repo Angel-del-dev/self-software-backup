@@ -1,0 +1,29 @@
+:root {
+    --app-width: 50%;
+}
+
+html,
+body {
+    height: 100vh;
+    width: 100vw;
+    padding: 0;
+    margin: 0;
+    font-size: 1.6rem;
+}
+
+table,
+tbody,
+tr,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;    
+}
+
+td {
+    text-align: center;
+}
+
+table {
+    width: 100%;
+}
